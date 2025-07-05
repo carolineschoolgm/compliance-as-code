@@ -11,7 +11,5 @@ This project implements a **Compliance-as-Code framework** in AWS using **Terraf
 This Terraform-based solution enables:
 - Continuous compliance using **AWS Config**
 - Security posture visibility via **AWS Security Hub**
-- Centralized logging using **AWS CloudTrail**
-- Encrypted storage and logging using **KMS** and S3
 - Infrastructure as Code (IaC) that is auditable and repeatable
 
